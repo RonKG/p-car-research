@@ -2,7 +2,7 @@
 
 Living market notes for a $60,000 search: a Porsche 911 Carrera S or above, or a six-cylinder Cayman.
 
-Each pass is a dated snapshot. The latest one is [4 October 2026](reports/2026-10-04-60k-market.md). The numbers behind it are in [data/2026-10-04-cars-and-bids.json](data/2026-10-04-cars-and-bids.json).
+Each pass is a dated snapshot. The latest one is [4 October 2026](reports/2026-10-04-60k-market.md). The shopping medians are in [data/2026-10-04-cars-and-bids.json](data/2026-10-04-cars-and-bids.json). The wider 911 and Cayman ladder from the same day is in [data/2026-10-04-lineup-additions.json](data/2026-10-04-lineup-additions.json).
 
 A local copy of this repo lives at `Documents\p-car-research`. The interactive view of the latest snapshot is the Cursor canvas `porsche-60k-market.canvas.tsx`.
 

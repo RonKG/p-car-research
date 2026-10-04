@@ -1,0 +1,36 @@
+{
+  "snapshot_date": "2026-10-04",
+  "source": "Cars & Bids",
+  "note": "Cars left out of the first $60k shortlist: 987 Cayman, 718 Cayman, and base 911s. Medians are sold and sold-after hammers. Inside-cap means the hammer was $57,100 or less.",
+  "coverage": {
+    "987-cayman": "Latest 6 result pages.",
+    "718-cayman": "Latest 4 result pages. Some cards did not expose a hammer and are excluded.",
+    "996-911": "Latest 4 result pages, base Carrera only. Turbo and 4S stay in the first snapshot.",
+    "997-911-base": "Base Carreras from the earlier 997 pull of 124 closed auctions.",
+    "991-911-base": "Latest 4 result pages. 991.2 excludes the 2019 Speedster.",
+    "992-911-base": "Latest 3 result pages. Carrera T excludes the Club Coupe."
+  },
+  "buckets": [
+    {"name": "987.1 Cayman", "sold": 30, "median": 24250, "min": 13300, "max": 40000, "at_or_under_57100": 30},
+    {"name": "987.1 Cayman S", "sold": 75, "median": 25000, "min": 9350, "max": 42069, "at_or_under_57100": 75},
+    {"name": "987.2 Cayman", "sold": 17, "median": 27000, "min": 20000, "max": 32061, "at_or_under_57100": 17},
+    {"name": "987.2 Cayman S", "sold": 14, "median": 36000, "min": 25253, "max": 60500, "at_or_under_57100": 12},
+    {"name": "987.2 Cayman R", "sold": 2, "median": 62807, "min": 62500, "max": 63114, "at_or_under_57100": 0},
+    {"name": "718 Cayman", "sold": 17, "median": 49982, "min": 34000, "max": 67500, "at_or_under_57100": 13},
+    {"name": "718 Cayman S", "sold": 7, "median": 59650, "min": 35000, "max": 78277, "at_or_under_57100": 2},
+    {"name": "718 GTS", "sold": 11, "median": 68000, "min": 46555, "max": 82718, "at_or_under_57100": 1},
+    {"name": "718 GTS 4.0", "sold": 8, "median": 92000, "min": 83500, "max": 101500, "at_or_under_57100": 0},
+    {"name": "718 GT4", "sold": 15, "median": 118750, "min": 90000, "max": 132000, "at_or_under_57100": 0},
+    {"name": "718 GT4 RS", "sold": 4, "median": 209306, "min": 187000, "max": 215000, "at_or_under_57100": 0},
+    {"name": "996 Carrera cab", "sold": 40, "median": 22500, "min": 13000, "max": 35250, "at_or_under_57100": 40},
+    {"name": "996 Carrera coupe", "sold": 31, "median": 28000, "min": 15996, "max": 48000, "at_or_under_57100": 31},
+    {"name": "997.1 Carrera cab", "sold": 5, "median": 29500, "min": 21000, "max": 41200, "at_or_under_57100": 5},
+    {"name": "997.1 Carrera coupe", "sold": 17, "median": 29999, "min": 13400, "max": 57000, "at_or_under_57100": 17},
+    {"name": "997.2 Carrera coupe", "sold": 4, "median": 51128, "min": 44000, "max": 61000, "at_or_under_57100": 3},
+    {"name": "991.1 Carrera cab", "sold": 6, "median": 56700, "min": 47750, "max": 67500, "at_or_under_57100": 3},
+    {"name": "991.1 Carrera coupe", "sold": 11, "median": 66000, "min": 54600, "max": 78000, "at_or_under_57100": 1},
+    {"name": "991.2 Carrera coupe", "sold": 6, "median": 81550, "min": 46241, "max": 102000, "at_or_under_57100": 1},
+    {"name": "992 Carrera coupe", "sold": 3, "median": 99500, "min": 88000, "max": 146000, "at_or_under_57100": 0},
+    {"name": "992 Carrera T coupe", "sold": 6, "median": 130750, "min": 122500, "max": 149500, "at_or_under_57100": 0}
+  ]
+}
