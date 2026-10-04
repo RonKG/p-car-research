@@ -31,6 +31,10 @@
     {"name": "991.1 Carrera coupe", "sold": 11, "median": 66000, "min": 54600, "max": 78000, "at_or_under_57100": 1},
     {"name": "991.2 Carrera coupe", "sold": 6, "median": 81550, "min": 46241, "max": 102000, "at_or_under_57100": 1},
     {"name": "992 Carrera coupe", "sold": 3, "median": 99500, "min": 88000, "max": 146000, "at_or_under_57100": 0},
-    {"name": "992 Carrera T coupe", "sold": 6, "median": 130750, "min": 122500, "max": 149500, "at_or_under_57100": 0}
+    {"name": "992 Carrera T coupe", "sold": 6, "median": 130750, "min": 122500, "max": 149500, "at_or_under_57100": 0},
+    {"name": "991.1 Turbo", "years": "2014-2016", "sold": 3, "median": 101000, "min": 90991, "max": 124000, "at_or_under_57100": 0},
+    {"name": "991.2 Turbo", "years": "2017-2019", "sold": 2, "median": 122137, "min": 119000, "max": 125274, "at_or_under_57100": 0},
+    {"name": "991.1 Turbo S", "years": "2014-2016", "sold": 5, "median": 120000, "min": 87412, "max": 142000, "at_or_under_57100": 0},
+    {"name": "991.2 Turbo S", "years": "2017-2019", "sold": 4, "median": 168250, "min": 154000, "max": 176000, "at_or_under_57100": 0}
   ]
 }
