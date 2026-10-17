@@ -1,0 +1,40 @@
+{
+  "snapshot_date": "2026-10-15",
+  "source": "Cars & Bids",
+  "source_url": "https://carsandbids.com/search/porsche",
+  "prior_snapshot": "2026-10-04",
+  "note": "Follow-up to the 4 Oct ladder. Medians were not rebuilt. These rows are the 4 Oct live cars after they ended, other 911 and Cayman hammers seen on the Porsche and model past-results pages, and the live 911 and Cayman bids on the night of 15 Oct.",
+  "closed": [
+    {"id": "3Rqak5qN", "title": "2014 Porsche Cayman S", "result": "reserve_not_met", "hammer_usd": null, "bid_usd": 39750, "prior_bid_usd": 37250, "ended": "2026-10-06"},
+    {"id": "9lBgVeLM", "title": "2014 Porsche Cayman S", "result": "sold", "hammer_usd": 50000, "ended": "2026-10-12", "note": "manual, unmodified"},
+    {"id": "3BLqDqYB", "title": "2009 Porsche Cayman S", "result": "sold", "hammer_usd": 48000, "prior_bid_usd": 31000, "ended": "2026-10-07"},
+    {"id": "KVVqZ2zk", "title": "2006 Porsche Cayman S", "result": "sold", "hammer_usd": 21000, "prior_bid_usd": 4000, "ended": "2026-10-08"},
+    {"id": "K11b25Jj", "title": "2016 Porsche Cayman GTS", "result": "sold", "hammer_usd": 64574, "prior_bid_usd": 42250, "ended": "2026-10-07"},
+    {"id": "9e5PoM1q", "title": "2008 Porsche 911 Carrera S Cabriolet", "result": "reserve_not_met", "bid_usd": 64000, "prior_bid_usd": 61000, "ended": "2026-10-07"},
+    {"id": "36LynXkP", "title": "2019 Porsche 911 Carrera S Cabriolet", "result": "sold", "hammer_usd": 116500, "prior_bid_usd": 71000, "ended": "2026-10-09"},
+    {"id": "KmAzXO5N", "title": "2021 Porsche 911 Carrera 4S Cabriolet", "result": "sold_after", "hammer_usd": 135000, "prior_bid_usd": 85000, "ended": "2026-10-08"},
+    {"id": "rk6X6mOb", "title": "1997 Porsche 911 Carrera S Coupe", "result": "reserve_not_met", "bid_usd": 150050, "prior_bid_usd": 100000, "ended": "2026-10-09"},
+    {"id": "rbG4LbL9", "title": "2023 Porsche 718 Cayman GT4 RS Weissach Package", "result": "reserve_not_met", "bid_usd": 190500, "prior_bid_usd": 182000, "ended": "2026-10-08"},
+    {"id": "3vNAGz1O", "title": "2014 Porsche 911 Carrera S Coupe", "result": "sold", "hammer_usd": 66666, "ended": "2026-10-15"},
+    {"id": "KPdAnQko", "title": "2006 Porsche 911 Carrera S Coupe", "result": "sold", "hammer_usd": 31250, "ended": "2026-10-14"},
+    {"id": "rkE24A2l", "title": "2008 Porsche Cayman S Sport", "result": "sold", "hammer_usd": 65000, "ended": "2026-10-14"},
+    {"id": "rJqGJa1X", "title": "2004 Porsche 911 Turbo Cabriolet", "result": "sold", "hammer_usd": 42256, "ended": "2026-10-15"},
+    {"id": "92RZWBaE", "title": "2017 Porsche 718 Cayman", "result": "sold", "hammer_usd": 43500, "ended": "2026-10-09"},
+    {"id": "K1N4Qwxx", "title": "2017 Porsche 911 Carrera Coupe", "result": "sold", "hammer_usd": 93500, "ended": "2026-10-12"},
+    {"id": "9QXNM1E7", "title": "2018 Porsche 911 Carrera GTS Coupe", "result": "sold", "hammer_usd": 136500, "ended": "2026-10-13"}
+  ],
+  "live": [
+    {"id": "30B5OJmg", "title": "2008 Porsche 911 Carrera S Cabriolet", "bid_usd": 20750, "transmission": "manual"},
+    {"id": "rkGXVN6R", "title": "2008 Porsche Cayman S", "bid_usd": 19871, "transmission": "manual", "mileage": "60,000"},
+    {"id": "KYMkVQZP", "title": "2008 Porsche Cayman", "bid_usd": 16250, "transmission": "manual"},
+    {"id": "30nV8zGM", "title": "2012 Porsche 911 Carrera 4S Cabriolet", "bid_usd": 18000, "transmission": "auto"},
+    {"id": "KPvOP0kL", "title": "2012 Porsche 911 Carrera S Coupe", "bid_usd": 40500, "transmission": "manual"},
+    {"id": "9nv2Pap9", "title": "2005 Porsche 911 Carrera Cabriolet", "bid_usd": 4000, "transmission": "manual"},
+    {"id": "r4ozwpnn", "title": "2016 Porsche Cayman GT4", "bid_usd": 60500, "transmission": "manual"},
+    {"id": "9nLvNDJD", "title": "2012 Porsche Cayman R", "bid_usd": 69987, "no_reserve": true},
+    {"id": "9WnlGLoR", "title": "2017 Porsche 911 Turbo Cabriolet", "bid_usd": 77000},
+    {"id": "3O7qVVXv", "title": "2020 Porsche 911 Carrera Coupe", "bid_usd": 75000},
+    {"id": "3R0aA4BR", "title": "2025 Porsche 718 Cayman GTS 4.0", "bid_usd": 99000, "transmission": "manual"},
+    {"id": "9QLNq1Mx", "title": "2023 Porsche 911 Carrera T Coupe", "bid_usd": 115000, "no_reserve": true, "transmission": "manual"}
+  ]
+}
